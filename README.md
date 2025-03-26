@@ -13,6 +13,7 @@
 - **플레이어 선택**  
   게임 시작 전 3종류의 캐릭터 중 하나를 선택할 수 있습니다.  
   각 캐릭터는 서로 다른 총알 색상을 지니며, 향후 무기 특성도 추가될 예정입니다.
+  
   <img width="602" alt="캐릭터 선택화면" src="https://github.com/user-attachments/assets/b2b924c6-ccd9-459b-afad-7dd4ace17d89" />
 
 
