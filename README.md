@@ -4,6 +4,8 @@
 
 `Vampire Survivors Lite`는 파이게임(Pygame)을 기반으로 제작된 탑다운 슈팅 로그라이크 게임입니다.  
 마우스로 조준하고, 키보드로 이동하며 적을 처치해 점수를 올리는 방식으로, 심플하지만 중독성 있는 구조로 설계되었습니다.
+
+
 <img width="602" alt="메인페이지" src="https://github.com/user-attachments/assets/03062ebe-9ae8-424f-9308-ee1d29cf9def" />
 
 ---
@@ -43,6 +45,26 @@
 <img width="593" alt="게임화면1" src="https://github.com/user-attachments/assets/b4f4be98-bdbf-4fc0-91c8-d0fa0d47afd2" />
 
 ---
+
+## 🛠️ 설치 및 실행 방법 (Anaconda 가상환경 사용)
+
+### 1. 아나콘다 가상환경 생성 및 활성화
+
+```bash
+conda create -n tetris-env python=3.11
+conda activate tetris-env
+```
+
+### 2. Pygame 설치
+
+```bash
+pip install pygame
+```
+
+> 💡 `conda-forge`를 통해 설치할 수도 있습니다:
+> ```bash
+> conda install -c conda-forge pygame
+> ```
 
 ## 🧠 코드 구조 설명
 
